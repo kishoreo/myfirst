@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 14EF-D992
-
- Directory of C:\Users\KISHORE ODUGU\Desktop\Mypro
-
-09/07/2017  11:23 AM    <DIR>          .
-09/07/2017  11:23 AM    <DIR>          ..
-09/07/2017  11:23 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  41,228,996,608 bytes free
+kishore is Good boy
